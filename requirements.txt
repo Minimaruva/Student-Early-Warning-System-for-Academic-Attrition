@@ -11,3 +11,5 @@ pyarrow
 joblib
 pytest
 ipykernel
+seaborn
+matplotlib
